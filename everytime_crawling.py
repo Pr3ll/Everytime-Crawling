@@ -14,8 +14,8 @@ import random
 
 # id, pw 입력
 
-id = "ksjo4o4"
-pw = "@kang0404@"
+id = "****"
+pw = "****"
 id_css_tag = "body > div:nth-child(2) > div > form > div.input > input[type=text]:nth-child(1)"
 pw_css_tag = "body > div:nth-child(2) > div > form > div.input > input[type=password]:nth-child(2)"
 site_board_num = "389155"  #한밭대 자유게시판 사이트 번호
